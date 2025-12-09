@@ -11,6 +11,8 @@ void draw(){
   strokeWeight(3);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Unit Goes Here
+ rect(1,300,397,110)
+ 
   ellipse(200, 300, 150, 150);
   ellipse(200, 200, 100, 100);
   ellipse(200, 120, 75, 75);
@@ -26,7 +28,8 @@ void draw(){
   rect(150,90,100,10)
 rect(175,80,50,10)
 
-
+line(170,190,100,125)
+line(246,180,280,115)
 }
 
 //🟡Extra FUN Features Ms. Hall Added
